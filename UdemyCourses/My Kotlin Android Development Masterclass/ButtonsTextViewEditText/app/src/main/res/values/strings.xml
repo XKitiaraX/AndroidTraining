@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interplanetary Weight Calculator</string>
+    <string name="title">What\'s your weight on...?</string>
+    <string name="hint_name">Your weight on Earth</string>
+    <string name="jbJupiterTitle">Jupiter</string>
+    <string name="cbMarsTitle">Mars</string>
+    <string name="cbVenusTitle">Venus</string>
+    <string name="tvResult" />
+    <string name="btnShow">Show weight</string>
+</resources>

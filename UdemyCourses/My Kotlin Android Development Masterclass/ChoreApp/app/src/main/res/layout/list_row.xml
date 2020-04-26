@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RelativeLayout
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imageViewID"
+                android:contentDescription="@string/image_descripton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@mipmap/ic_launcher_round"
+                android:padding="10dp"/>
+
+            <TextView
+                android:id="@+id/listChoreName"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageViewID"
+                android:text="Poner la mesa"/>
+
+            <TextView
+                android:id="@+id/listAssignedBy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageViewID"
+                android:layout_below="@id/listChoreName"
+                android:text="Assigned by: Juan"/>
+
+            <TextView
+                android:id="@+id/listAssignedTo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageViewID"
+                android:layout_below="@id/listAssignedBy"
+                android:text="Assigned ty: Juan"/>
+
+            <TextView
+                android:id="@+id/listDate"
+                android:text="Date: 12 April 2020"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignBottom="@id/imageViewID"
+                />
+
+            <Button
+                android:id="@+id/ListEditButton"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignStart="@id/listDate"
+                android:layout_alignBottom="@id/listChoreName"
+                android:background="@drawable/ic_action_edit" />
+
+            <Button
+                android:id="@+id/ListDeleteButton"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="9dp"
+                android:layout_toEndOf="@id/ListEditButton"
+                android:layout_alignBottom="@id/listChoreName"
+                android:background="@drawable/ic_action_delete" />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
