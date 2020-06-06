@@ -10,10 +10,7 @@ import android.widget.TextView
 import com.example.coderswag.Model.Category
 import com.example.coderswag.R
 
-class CategoryAdapter(context: Context, categories: List<Category>) : BaseAdapter() {
-
-    val context = context
-    val categories = categories
+class CategoryAdapter(val context: Context, val categories: List<Category>) : BaseAdapter() {
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
         val categoryView: View
@@ -24,12 +21,10 @@ class CategoryAdapter(context: Context, categories: List<Category>) : BaseAdapte
             holder = ViewHolder()
             holder.categoryImage = categoryView.findViewById(R.id.categoryimage)
             holder.categoryName = categoryView.findViewById(R.id.categoryname)
-            println("I exist for the first time!")
             categoryView.tag = holder
         } else {
             holder = convertView.tag as ViewHolder
             categoryView = convertView
-            println("Go green, recycle!")
         }
 
         val category = categories[position]
