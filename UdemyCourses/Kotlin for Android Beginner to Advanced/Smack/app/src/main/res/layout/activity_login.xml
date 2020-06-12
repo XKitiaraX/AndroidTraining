@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:onClick="loginCreateUserBtnClicked"
-    tools:context=".LoginActivity">
+    tools:context=".Controller.LoginActivity">
 
     <EditText
         android:id="@+id/loginEmailTxt"
