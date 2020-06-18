@@ -27,7 +27,9 @@
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/nav_host_fragment" />
+        app:layout_constraintTop_toTopOf="@+id/nav_host_fragment"
+        android:textSize="18sp"
+        android:textAppearance="bold"/>
 
     <EditText
         android:id="@+id/messageTextField"
