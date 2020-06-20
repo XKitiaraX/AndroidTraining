@@ -29,7 +29,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/nav_host_fragment"
         android:textSize="18sp"
-        android:textAppearance="bold"/>
+        android:textStyle="bold"/>
 
     <EditText
         android:id="@+id/messageTextField"
