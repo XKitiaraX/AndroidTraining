@@ -45,7 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../UdemyCourses/Kotlin for Android Beginner to Advanced/CoderSwag" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DessertClicker-Starter" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -133,10 +133,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="605" y="311" key="AndroidCreateResourceFileDialog/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1593520401319" />
-    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1593513806268">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1593533684090">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1593513806268" />
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1593533684090" />
     <state x="93" y="93" width="1862" height="926" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1593499269970">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
