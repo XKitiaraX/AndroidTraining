@@ -12,7 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_28_Pie" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_25" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -46,8 +46,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RecyclerViewClickHandler-Starter" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paula\OneDrive\Documentos\GitHub\AndroidTraining\Codelabs\Android Kotlin Fundamentals Course\RecyclerViewFundamentals-Starter\app\src\main\res\layout" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -123,6 +128,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="0" key="#app" timestamp="1594632149051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#app/0.0.1280.680@0.0.1280.680" timestamp="1594632149051" />
     <state x="816" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1594220614670">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -131,5 +140,25 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="605" y="311" key="AndroidCreateResourceFileDialog/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1594218113289" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1594634816361">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594634816361" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1594633751687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594633751687" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1594633751686">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594633751686" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1594633751685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594633751685" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1594633751686">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594633751686" />
   </component>
 </project>
