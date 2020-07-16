@@ -120,17 +120,24 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="432" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1594722621786">
+    <state x="432" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1594895333761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="432" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1594722621786" />
+    <state x="432" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594895333761" />
+    <state x="432" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1594894468225" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1594718398650">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594718398650" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1594807252803">
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1594897516858">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1594807252803" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594897516858" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1594894327958" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1594901048337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594901048337" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1594810785270" />
   </component>
 </project>
