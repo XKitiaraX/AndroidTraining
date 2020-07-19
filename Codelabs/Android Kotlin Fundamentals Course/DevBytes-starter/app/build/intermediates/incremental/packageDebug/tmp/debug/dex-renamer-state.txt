@@ -1,4 +1,4 @@
-#Sat Jul 18 18:40:12 CEST 2020
+#Sun Jul 19 20:02:58 CEST 2020
 base.0=C\:\\Users\\paula\\OneDrive\\Documentos\\GitHub\\AndroidTraining\\Codelabs\\Android Kotlin Fundamentals Course\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
